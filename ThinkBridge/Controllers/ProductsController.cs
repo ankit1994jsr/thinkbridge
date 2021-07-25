@@ -9,7 +9,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
 using ThinkBridge.DataAccess;
-using ThinkBridge.Models;
+using ThinkBridge.Models ;
 
 namespace ThinkBridgeSolution.Controllers
 {
